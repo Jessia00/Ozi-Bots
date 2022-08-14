@@ -1,5 +1,7 @@
 # Ozi Bots
 
+Ücretli bot yaptırmak isteyen bilgi için DM: Jaylen#9097 yada SnowOuts#0119
+
 - Testleri yapılmıştır. Hiçbir hatası bulunmamaktadır starlarınızı bekliyorum yeni github hesabım.
 - Sizlerle geliştirmiş olduğum botlardan biriyle tanıştırmak istiyorum.. 
 - Invite, Moderasyon, Butonlu Register /Oto Register, Stats, Buton sistemleri.
